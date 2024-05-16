@@ -1,8 +1,6 @@
-# OSProject Running Containers for Application Development
+# Net&Sys Assignment: Running Containers for Application Development
 
 Group Name: __Fill your team name__. 
-
-Section: __Fill your class section__. 
 
 Team Mates:
 1. __Fill name__ and __matric no__
@@ -10,21 +8,21 @@ Team Mates:
 3. __Fill name__ and __matric no__
 
 ## Rules
-1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
-2. When you complete the project, make sure to submit the repository link of your cloned project. Make sure all the files are as what you aspect in your repository. 
+1. You are allowed to have **3 group** members.
+2. When you complete the assignment, make sure to submit the repository link of your cloned project. Make sure all the files are as what you aspect in your repository. 
 3. Answer all questions in the **README.md**, in your own repository. Either use the online VSCode, terminal or github to edit. Answers are expected where you see __Fill answer here__.
 4. Learn how to use markdown. https://www.w3schools.io/file/markdown-introduction/
 
-## Forking this OS project repository
-1. First thing you need in doing this project is to have a github account. Make sure to sign up at https://www.github.com
-2. The second thing you need is to fork the OS project repository in your own github account. 
+## Forking this project repository
+1. First thing you need in doing this assignment is to have a github account. Make sure to sign up at https://www.github.com
+2. The second thing you need is to fork the Net&Sys Assignment repository in your own github account. 
 
-    1. Go to https://github.com/joeynor/OSProject and click fork to copy the project into your own repository
+    1. Go to https://github.com/ZainabBashi/NatSysProject and click fork to copy the project into your own repository
     2. Make sure that the new fork is now in your own repository
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __Fill answer here__.
+1. What is the link of the fork Net&Sys Assignment in your repository. ***(1 mark)*** __Fill answer here__.
 2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
 
 
@@ -33,7 +31,7 @@ Team Mates:
 1. The next thing that we will be doing is exploring codespaces. First of all, read about codespaces https://docs.github.com/en/codespaces/overview#what-is-a-codespace
 2. Then go to the link https://github.com/codespaces and we shall start a new codespace.  
 3. Click on ***New codespace***.
-4. Choose your own OSProject repository to start your codespace.
+4. Choose your own Net&Sys Assignment repository to start your codespace.
 
  <img src="./images/newcodespace.png" width="50%">
 
@@ -42,7 +40,7 @@ Team Mates:
  <img src="./images/UIwebvscode.png" width="70%">
 
 6. You will see the [README file](./README.md) file. One is a preview of how it looks like on the web, and the other is the editing view in markdown language. 
-7. Edit the [README file](./README.md). Make sure you have your group details correct, ie, group name, section and team members along with their matric IDs. 
+7. Edit the [README file](./README.md). Make sure you have your group details correct, ie, group name and team members along with their matric Numbers. 
 8. Once you have finish editing, click File->Save or ***ctrl-s*** to save it. 
 9. After saving, you will notice an M or U next to your file. You will need to commit any changes, whenever you make changes so that it is uploaded to the github repository. 
 
@@ -58,7 +56,7 @@ Team Mates:
 ***Questions:***
 
 1. What is default OS used to run the virtual environment for codespaces. ***(1 mark)*** __Fill answer here__.
-2. What are the two options of ram, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __Fill answer here__.
+2. What are the two options of RAM, disk and vcpu configuration you can have in running codespaces . ***(1 mark)*** __Fill answer here__.
 3. Why must we commit and sync our current work on source control? ***(1 mark)*** __Fill answer here__.
 
 ## Exploring the Terminal
@@ -246,4 +244,4 @@ docker exec c1 ping c2
 1. Make sure to commit all changes on your source control, and make sure your source control is sync to the repository. 
 2. Check your repository link, to see if all the files and answers are included in the repository. 
 3. Submit through italeem, by providing the link to your repository.
-4. Due by ***31 January, 2024***
+4. Due by ***30 May, 2024***
