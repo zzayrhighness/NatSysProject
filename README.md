@@ -3,8 +3,8 @@
 Group Name: __Fill your team name__. 
 
 Team Mates:
-1. __Fill name__ and __matric no__
-2. __Fill name__ and __matric no__
+1. IRIS MAHIRAH BINTI MOHAMMAD FADHLI (2219366)
+2. IZZA ZULAIKHA MOHD FAUZI
 3. __Fill name__ and __matric no__
 
 ## Rules
@@ -22,7 +22,8 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork Net&Sys Assignment in your repository. ***(1 mark)*** __Fill answer here__.
+1. What is the link of the fork Net&Sys Assignment in your repository. ***(1 mark)*** 
+https://github.com/zzayrhighness/NatSysProject
 2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
 
 
