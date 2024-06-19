@@ -1,0 +1,4 @@
+cd webpage
+echo "<html><body><h1>Hello, World!</h1></body></html>" > index.html
+
+docker run --detach -v $(pwd):/usr/local/apache2/htdocs/ -p 8080:80 httpd
